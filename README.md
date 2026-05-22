@@ -16,7 +16,7 @@
 
 ### Content Creator · AI有两下子
 
-「**AI有两下子**」是我在全网各大平台使用的统一自媒体品牌，聚焦 **AI 工具实测、提示词工程、LLM 应用开发与 AI 工作流分享**。如果你也对 AI 感兴趣，欢迎来同名账号交流。
+「**AI有两下子**」 is my unified content brand across major social platforms, focused on **hands-on AI tool reviews, prompt engineering, LLM application development, and AI workflow sharing**. If you're into AI, feel free to follow me under the same handle on any of the platforms below.
 
 <p>
   <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-07C160?style=flat-square&logo=wechat&logoColor=white" />
