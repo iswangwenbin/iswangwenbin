@@ -14,15 +14,6 @@
 - Currently working on frontend tooling, design systems, and AI-assisted workflows.
 - Always learning — recently exploring LLM application development and developer experience.
 
-### Content Creator · AI有两下子
-
-<p>
-  <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-07C160?style=flat-square&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-000000?style=flat-square&logo=tiktok&logoColor=white" />
-  <a href="https://x.com/iswangwenbin"><img src="https://img.shields.io/badge/X-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-000000?style=flat-square&logo=x&logoColor=white" alt="X @iswangwenbin" /></a>
-</p>
-
 ### Tech Stack
 
 <p>
@@ -36,6 +27,15 @@
   <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Content Creator · AI有两下子
+
+<p>
+  <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-07C160?style=flat-square&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-000000?style=flat-square&logo=tiktok&logoColor=white" />
+  <a href="https://x.com/iswangwenbin"><img src="https://img.shields.io/badge/X-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-000000?style=flat-square&logo=x&logoColor=white" alt="X @iswangwenbin" /></a>
 </p>
 
 ### GitHub Stats
