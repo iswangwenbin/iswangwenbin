@@ -14,7 +14,7 @@
 - Currently working on frontend tooling, design systems, and AI-assisted workflows.
 - Always learning — recently exploring LLM application development and developer experience.
 
-### 自媒体 · AI有两下子
+### Content Creator · AI有两下子
 
 「**AI有两下子**」是我在全网各大平台使用的统一自媒体品牌，聚焦 **AI 工具实测、提示词工程、LLM 应用开发与 AI 工作流分享**。如果你也对 AI 感兴趣，欢迎来同名账号交流。
 
@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-07C160?style=flat-square&logo=wechat&logoColor=white" />
   <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
   <img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-000000?style=flat-square&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/B%E7%AB%99-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-AI%E6%9C%89%E4%B8%A4%E4%B8%8B%E5%AD%90-E6162D?style=flat-square&logo=sinaweibo&logoColor=white" />
 </p>
 
 ### Tech Stack
