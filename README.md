@@ -51,7 +51,6 @@
 
 - X (Twitter): [@iswangwenbin](https://x.com/iswangwenbin) — sharing thoughts on web dev, AI, and side projects
 - GitHub: [@iswangwenbin](https://github.com/iswangwenbin)
-- Email: _add your email here_
 
 ---
 
